@@ -6,10 +6,13 @@ license.workspace = true
 readme.workspace = true
 repository.workspace = true
 version.workspace = true
+description.workspace = true
+keywords.workspace = true
+categories.workspace = true
 
 [features]
 default = ["std"]
 std = []
 
 [dependencies]
-smooth-operator-impl = { path = "../smooth-operator-impl" }
+smooth-operator-impl = { version = "0.7", path = "../smooth-operator-impl" }
