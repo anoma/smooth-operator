@@ -6,6 +6,9 @@ license.workspace = true
 readme.workspace = true
 repository.workspace = true
 version.workspace = true
+description.workspace = true
+keywords.workspace = true
+categories.workspace = true
 
 [features]
 default = ["std"]

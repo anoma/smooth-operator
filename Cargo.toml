@@ -13,3 +13,6 @@ license = "MIT"
 readme = "README.md"
 repository = "https://github.com/heliaxdev/smooth-operator"
 version = "0.7.0"
+description = "Procedural macro that transforms regular infix arithmetic expressions into checked arithmetic expressions."
+keywords = ["checked", "arithmetic", "overflow", "no-panic"]
+categories = ["no-std", "no-std::no-alloc", "rust-patterns", "mathematics"]
