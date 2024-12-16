@@ -1,5 +1,8 @@
 # smooth-operator
 
+[![Crates.io](https://img.shields.io/crates/v/smooth-operator.svg)](https://crates.io/crates/smooth-operator)
+[![Documentation](https://docs.rs/smooth-operator/badge.svg)](https://docs.rs/smooth-operator)
+
 Procedural macro that transforms regular infix arithmetic expressions into
 checked arithmetic expressions.
 
