@@ -35,6 +35,8 @@ jobs:
         with:
           command: fmt
           args: --check
+      - name: Check semver
+        uses: obi1kenobi/cargo-semver-checks-action@v2
 
   build:
     name: Build and test
